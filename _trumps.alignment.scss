@@ -1,0 +1,35 @@
+/* 
+   #ta
+   ========================================================================== */
+
+/**
+ * Text-align
+ */
+
+.#{$bare-ns}ta-l { text-align: left; }
+.#{$bare-ns}ta-c { text-align: center; }
+.#{$bare-ns}ta-r { text-align: right; }
+
+/* 
+   #va
+   ========================================================================== */
+
+/**
+ * Vertical-align
+ */
+
+.#{$bare-ns}va-t { vertical-align: top; }
+.#{$bare-ns}va-m { vertical-align: middle; }
+.#{$bare-ns}va-b { vertical-align: bottom; }
+
+/* 
+   #fl
+   ========================================================================== */
+
+/**
+ * Float
+ */
+
+.#{$bare-ns}fl-n { float: none; }
+.#{$bare-ns}fl-l { float: left; }
+.#{$bare-ns}fl-r { float: right; }
