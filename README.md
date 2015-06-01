@@ -6,7 +6,7 @@ The `alignment` module contains helper classes to align and float content.
 
 Install using Bower:
 
-	$ bower --save bare-alignment
+	$ bower install --save bare-alignment
 
 Import into project:
 
